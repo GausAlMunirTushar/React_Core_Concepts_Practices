@@ -1,0 +1,29 @@
+.Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 400px;
+    background-color: #c1dbdf;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+}
+.bio h3{
+    color: rgb(255, 255, 255);
+}
+.skills ul li{
+   display: inline;
+    margin-right: 10px;
+}
+.social-links ul{
+
+}
+.social-links ul li{
+    display: inline-block;
+    margin: 0 10px;
+}
+.social-links ul li a{
+    text-decoration: none;
+
+}
