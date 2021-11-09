@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with React Core Concepts Practices and Simple Projects
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
