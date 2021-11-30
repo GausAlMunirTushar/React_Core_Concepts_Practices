@@ -8,7 +8,7 @@ class Profile extends React.Component {
         return (
             <div className="Container">
                 <Bio/>
-                <Skills/>
+                <Skills skillA="JavaScript" skillB="Python" skillC="Typescript"/>
                 <Social/>
             </div>
         );

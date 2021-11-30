@@ -1,16 +1,12 @@
 import React from "react";
 import './Profile'
-const Skills =()=>(
+const Skills =(props)=>(
     <div className="skills">
         <h3>Skills</h3>
         <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>React</li>
-            <li>Node</li>
-            <li>Express</li>
-            <li>MongoDB</li>
+            <li>{props.skillA}</li>
+            <li>{props.skillB}</li>
+            <li>{props.skillC}</li>
         </ul>
     </div>
 )
